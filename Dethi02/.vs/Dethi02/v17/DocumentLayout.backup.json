@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AA9FC67-B512-4794-A26B-938B399A535B}|Dethi02\\Dethi02.csproj|d:\\c\u00F4ng ngh\u1EC7 th\u00F4ng tin\\lt tr\u00EAn mt windows\\bu\u1ED5i 7\\hoxuannguyen_2280602109\\de02\\dethi02\\dethi02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AA9FC67-B512-4794-A26B-938B399A535B}|Dethi02\\Dethi02.csproj|D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\dethi02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AA9FC67-B512-4794-A26B-938B399A535B}|Dethi02\\Dethi02.csproj|solutionrelative:dethi02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AA9FC67-B512-4794-A26B-938B399A535B}|Dethi02\\Dethi02.csproj|D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\dethi02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AA9FC67-B512-4794-A26B-938B399A535B}|Dethi02\\Dethi02.csproj|solutionrelative:dethi02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B4C0A-6F94-4F90-A8BD-55DF774C00FE}|BUS\\BUS.csproj|D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\bus\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D54B4C0A-6F94-4F90-A8BD-55DF774C00FE}|BUS\\BUS.csproj|d:\\c\u00F4ng ngh\u1EC7 th\u00F4ng tin\\lt tr\u00EAn mt windows\\bu\u1ED5i 7\\hoxuannguyen_2280602109\\de02\\dethi02\\bus\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D54B4C0A-6F94-4F90-A8BD-55DF774C00FE}|BUS\\BUS.csproj|solutionrelative:bus\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D54B4C0A-6F94-4F90-A8BD-55DF774C00FE}|BUS\\BUS.csproj|D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\bus\\loaispservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D54B4C0A-6F94-4F90-A8BD-55DF774C00FE}|BUS\\BUS.csproj|solutionrelative:bus\\loaispservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9FC67-B512-4794-A26B-938B399A535B}|Dethi02\\Dethi02.csproj|D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\dethi02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AA9FC67-B512-4794-A26B-938B399A535B}|Dethi02\\Dethi02.csproj|solutionrelative:dethi02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEF1DA13-AA84-45C3-998F-E054DEEEDAD0}|DAL\\DAL.csproj|D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\dal\\entities\\quanlyspdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmSanpham.cs [Design]",
               "DocumentMoniker": "D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\Dethi02\\frmSanpham.cs",
               "RelativeDocumentMoniker": "Dethi02\\frmSanpham.cs",
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "Dethi02\\frmSanpham.cs",
               "ToolTip": "D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\Dethi02\\frmSanpham.cs",
               "RelativeToolTip": "Dethi02\\frmSanpham.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAwwOIAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAwPQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T21:03:13.307Z",
               "IsPinned": true,
@@ -61,26 +61,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SanphamService.cs",
               "DocumentMoniker": "D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\BUS\\SanphamService.cs",
               "RelativeDocumentMoniker": "BUS\\SanphamService.cs",
               "ToolTip": "D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\BUS\\SanphamService.cs",
               "RelativeToolTip": "BUS\\SanphamService.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAhwCUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T21:09:26.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "LoaiSPService.cs",
               "DocumentMoniker": "D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\BUS\\LoaiSPService.cs",
               "RelativeDocumentMoniker": "BUS\\LoaiSPService.cs",
               "ToolTip": "D:\\C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\LT Tr\u00EAn MT Windows\\Bu\u1ED5i 7\\HoXuanNguyen_2280602109\\De02\\Dethi02\\BUS\\LoaiSPService.cs",
               "RelativeToolTip": "BUS\\LoaiSPService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T21:09:05.411Z",
               "EditorCaption": ""

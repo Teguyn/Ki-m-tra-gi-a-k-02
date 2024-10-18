@@ -34,8 +34,8 @@ VALUES ('SP001', N'Sản phẩm 1', '2024-10-01', 'L1'),
        ('SP002', N'Sản phẩm 2', '2024-10-15', 'L2'),
        ('SP003', N'Sản phẩm 3', '2024-09-20', 'L1');
 GO
-select * from 
-
+select * from LoaiSP
+select * from Sanpham 
 SELECT MaSP, TenSP, 
        CONVERT(VARCHAR(10), Ngaynhap, 103) AS Ngaynhap, 
        MaLoai
